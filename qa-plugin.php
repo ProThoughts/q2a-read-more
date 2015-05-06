@@ -2,13 +2,13 @@
 
 /*
 	Plugin Name: Read More
-	Plugin URI: https://github.com/HelioChun/q2a-readmore
-	Plugin Update Check URI: https://github.com/HelioChun/q2a-readmore/qa-plugin.php
+	Plugin URI: https://github.com/HelioChun/q2a-read-more
+	Plugin Update Check URI: https://github.com/HelioChun/q2a-read-more/blob/master/qa-plugin.php
 	Plugin Description: Collapses and adds "read more" button for long questions and answers
 	Plugin Version: 1.0
 	Plugin Date: 2015-05-06
 	Plugin Author: Hélio Chun
-	Plugin Author URI: 
+	Plugin Author URI: http://pulseframe.com
 	Plugin License: GPLv2
 	Plugin Minimum Question2Answer Version: 1.5
 */
