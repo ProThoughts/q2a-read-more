@@ -14,7 +14,7 @@ Installation
  3. Upload `q2a-read-more` folder to your qa-plugin folder on your installation, and that's it. You are ready to go.
 
  
-Get the plugin
+Download the plugin
 --------------
 You can download the plugin from [this link][download]. You can say thanks [donating using PayPal][paypal].
  
