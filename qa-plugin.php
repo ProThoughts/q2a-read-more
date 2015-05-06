@@ -3,7 +3,7 @@
 /*
 	Plugin Name: Read More
 	Plugin URI: https://github.com/HelioChun/q2a-read-more
-	Plugin Update Check URI: https://github.com/HelioChun/q2a-read-more/blob/master/qa-plugin.php
+	Plugin Update Check URI: https://raw.githubusercontent.com/HelioChun/q2a-read-more/master/qa-plugin.php
 	Plugin Description: Collapses and adds "read more" button for long questions and answers
 	Plugin Version: 1.0
 	Plugin Date: 2015-05-06
