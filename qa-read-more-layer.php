@@ -14,7 +14,7 @@ class qa_html_theme_layer extends qa_html_theme_base {
 	function head_css() {
 		global $qa_request;
 		qa_html_theme_base::head_css();
-		$this->output('<style>
+		$this->output('<style type="text/css">
 		/* Style your Read More Button here */
 
 		.readmore-button {
