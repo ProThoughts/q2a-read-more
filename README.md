@@ -16,7 +16,7 @@ Installation
  
 Get the plugin
 --------------
-The plugin can be downloaded from [this link][download]. You can say thanks [donating using PayPal][paypal].
+You can download the plugin from [this link][download]. You can say thanks [donating using PayPal][paypal].
  
  
 About q2A
@@ -27,5 +27,5 @@ http://www.question2answer.org/
 
 
 [Q2A]: http://www.question2answer.com
-[download]: https://github.com/pupi1985/q2a-random-avatar/archive/master.zip
+[download]: https://github.com/HelioChun/q2a-read-more/archive/master.zip
 [paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L4LSHJKNCY686
