@@ -1,5 +1,5 @@
 ==============================
-Question2Answer Read More plugin
+Question2Answer Read More Plugin
 ==============================
 
 Description
