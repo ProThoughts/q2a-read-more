@@ -8,7 +8,7 @@ Description
 
 > Watch [live demo here][liveDemo].
 > 
-> <img src="http://www.question2answer.org/qa/?qa=blob&qa_blobid=5959328143390964" />
+> <img src="http://www.question2answer.org/qa/?qa=blob&qa_blobid=6874962773782749059" />
 
 Installation
 --------------
