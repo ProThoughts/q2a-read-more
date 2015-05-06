@@ -4,7 +4,11 @@ Question2Answer Read More Plugin
 
 Description
 -----------
-`q2a-read-more` is a [Question2Answer][Q2A] plugin that Collapses and expands long blocks of text by adding a "read more" button for questions and answers.
+**q2a-read-more** is a [Question2Answer][Q2A] plugin that Collapses and expands long blocks of text by adding a "read more" button for questions and answers.
+
+> Watch [live demo here][liveDemo].
+> 
+> <img src="http://www.question2answer.org/qa/?qa=blob&qa_blobid=5959328143390964" />
 
 Installation
 --------------
@@ -27,5 +31,6 @@ http://www.question2answer.org/
 
 
 [Q2A]: http://www.question2answer.com
+[liveDemo]: http://pulseframe.com/askathon/1
 [download]: https://github.com/HelioChun/q2a-read-more/archive/master.zip
 [paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L4LSHJKNCY686
