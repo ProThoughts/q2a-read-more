@@ -18,7 +18,4 @@ if (!defined('QA_VERSION')) { // don't allow this page to be requested directly 
 	exit;
 }
 
-qa_register_plugin_layer(
-	'qa-read-more-layer.php',
-	'Readmore Layer'
-);
+qa_register_plugin_layer('qa-read-more-layer.php', 'Readmore Layer');
