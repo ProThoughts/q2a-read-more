@@ -21,7 +21,10 @@ Installation
 Download the plugin
 --------------
 You can download the plugin from [this link][download]. You can say thanks [donating using PayPal][paypal].
- 
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7R6F4VZHFNPB6" target="_blank"/>
+<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="Donate with PayPal!"/>
+<a/>
  
 About q2A
 ---------
@@ -33,4 +36,4 @@ http://www.question2answer.org/
 [Q2A]: http://www.question2answer.com
 [liveDemo]: http://pulseframe.com/askathon/1
 [download]: https://github.com/HelioChun/q2a-read-more/archive/master.zip
-[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L4LSHJKNCY686
+[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7R6F4VZHFNPB6
